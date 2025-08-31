@@ -13,8 +13,7 @@
 - 🔭 I'm currently working at **[Nisum](https://www.nisum.com/)** as Principal Software Engineer
 - 🌱 I'm currently exploring **Generative AI** and **Machine Learning**
 - 💬 Ask me about **iOS Development, Swift, React.js, Node.js, Full-Stack Architecture**
-- 📫 How to reach me: **[aseefatwork@gmail.com](mailto:aseefatwork@gmail.com)** → **[navrana@navjs.co](mailto:navrana@navjs.co)**
-- 🌐 Portfolio: **[navjs.co](https://navjs.co/)**
+- 📫 How to reach me: **[navjs.co](https://navjs.co/)**
 - ⚡ Fun fact: I single-handedly launched **JobRocket**, scaling it to help 10,000+ tech recruiters!
 
 ---
